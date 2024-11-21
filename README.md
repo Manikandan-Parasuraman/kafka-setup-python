@@ -219,4 +219,25 @@ Current setup is for development. For production:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+### GNU GPL v3.0 Summary
+
+Permissions:
+- Commercial use
+- Distribution
+- Modification
+- Patent use
+- Private use
+
+Conditions:
+- Disclose source
+- License and copyright notice
+- Same license
+- State changes
+
+Limitations:
+- Liability
+- Warranty
+
+For the full license text, visit: https://www.gnu.org/licenses/gpl-3.0.en.html
